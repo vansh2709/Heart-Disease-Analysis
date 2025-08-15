@@ -31,8 +31,7 @@ The **Heart Disease Analysis Dashboard** is an interactive data visualization to
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/heart-disease-analysis-dashboard.git
-   ```
+   git clone https://github.com/vansh2709/Heart-Disease-Analysis ```
 2. **Open Power BI file** (`.pbix`) in Power BI Desktop.
 3. **Load Dataset** (CSV/Excel) into the dashboard if prompted.
 4. **Explore the visualizations** and interact with filters to analyze survival patterns.
